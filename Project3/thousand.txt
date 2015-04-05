@@ -1,0 +1,1000 @@
+Recipe 725|Description 725|36|2|24|pepper@ground turkey|Step 1
+Recipe 748|Description 748|20|59|106|garlic|Step 1@Step 2@Step 3
+Recipe 668|Description 668|24|9|29|bread|Step 1
+Recipe 961|Description 961|15|50|105|lime@peas@apricot@onion|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 390|Description 390|32|38|60|lime|Step 1@Step 2@Step 3
+Recipe 577|Description 577|47|5|56|onion@apple@egg@plum|Step 1@Step 2
+Recipe 832|Description 832|41|1|66|ground turkey@carrot@cereal@apricot|Step 1
+Recipe 185|Description 185|17|35|55|lime@green beans@orange@water@pepper|Step 1@Step 2@Step 3@Step 4
+Recipe 615|Description 615|1|14|31|peas@cauliflower@apricot@bread@egg|Step 1@Step 2@Step 3
+Recipe 983|Description 983|11|30|73|salt@pear@nectarine@lime@plum|Step 1@Step 2@Step 3@Step 4
+Recipe 593|Description 593|27|54|47|peas@broccoli@cauliflower@squash|Step 1@Step 2@Step 3@Step 4
+Recipe 808|Description 808|48|38|35|beet@squash@cucumber@broccoli|Step 1
+Recipe 900|Description 900|20|18|25|pear@cumin@pepper|Step 1
+Recipe 912|Description 912|3|35|99|apricot@cucumber@pepper@potato|Step 1@Step 2@Step 3
+Recipe 454|Description 454|14|4|113|plum|Step 1@Step 2@Step 3@Step 4
+Recipe 946|Description 946|37|30|62|corn@peas@lemon|Step 1@Step 2@Step 3@Step 4
+Recipe 868|Description 868|2|36|47|pepper@avocado@cauliflower@peach@peas|Step 1
+Recipe 67|Description 67|18|46|71|cereal@onion@peas@lime@nectarine|Step 1@Step 2@Step 3
+Recipe 925|Description 925|50|41|113|bacon@bread|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 417|Description 417|17|16|37|ground beef@water|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 15|Description 15|37|55|70|orange@apple@plum@cauliflower|Step 1
+Recipe 266|Description 266|24|23|25|egg@orange@cereal|Step 1@Step 2@Step 3@Step 4
+Recipe 673|Description 673|31|19|43|salt@lemon@water@ground beef@cucumber|Step 1@Step 2@Step 3@Step 4
+Recipe 30|Description 30|29|48|23|cucumber@avocado|Step 1@Step 2@Step 3
+Recipe 252|Description 252|5|10|80|ground turkey@peas@bacon@salt|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 25|Description 25|36|17|30|milk|Step 1@Step 2@Step 3@Step 4
+Recipe 974|Description 974|12|10|92|beet@avocado@garlic@onion|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 856|Description 856|19|18|5|water@cumin@garlic|Step 1
+Recipe 794|Description 794|21|59|67|water@potato@ground turkey@pear|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 64|Description 64|38|21|60|bread@cauliflower@squash@corn|Step 1@Step 2
+Recipe 521|Description 521|50|4|3|lime|Step 1@Step 2@Step 3
+Recipe 730|Description 730|6|12|83|water@avocado@cereal@milk|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 103|Description 103|22|28|96|carrot@onion@peach@bacon@garlic|Step 1
+Recipe 256|Description 256|7|35|15|lemon@squash|Step 1@Step 2@Step 3@Step 4
+Recipe 338|Description 338|36|28|84|ground beef@lime|Step 1@Step 2@Step 3@Step 4
+Recipe 609|Description 609|36|40|65|water@onion@pepper@apple@lime|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 732|Description 732|12|0|107|pear@garlic|Step 1@Step 2@Step 3@Step 4
+Recipe 863|Description 863|25|37|58|corn@cereal@plum@bread|Step 1@Step 2@Step 3
+Recipe 304|Description 304|25|58|108|apple@potato@green beans|Step 1@Step 2
+Recipe 734|Description 734|4|29|26|orange@cumin@cauliflower|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 308|Description 308|4|14|29|cumin@cucumber|Step 1
+Recipe 992|Description 992|12|5|50|cucumber|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 375|Description 375|38|17|95|squash@salt|Step 1@Step 2
+Recipe 616|Description 616|20|50|47|cauliflower|Step 1@Step 2@Step 3@Step 4
+Recipe 645|Description 645|6|35|97|cucumber@lime@pepper|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 682|Description 682|32|35|2|ground turkey|Step 1@Step 2@Step 3
+Recipe 434|Description 434|42|18|13|squash@nectarine|Step 1@Step 2@Step 3@Step 4
+Recipe 564|Description 564|12|54|17|cauliflower@corn@peas|Step 1@Step 2@Step 3
+Recipe 60|Description 60|45|32|57|potato@lime@milk@cereal@pear|Step 1@Step 2
+Recipe 39|Description 39|44|36|1|beet@apple@avocado|Step 1
+Recipe 574|Description 574|21|55|17|peas@green beans@cumin@milk@apricot|Step 1
+Recipe 301|Description 301|30|5|7|cucumber@pear@cereal@nectarine|Step 1
+Recipe 128|Description 128|32|38|88|onion@bacon@pear|Step 1
+Recipe 388|Description 388|31|3|115|ground beef@avocado@plum@potato@broccoli|Step 1
+Recipe 712|Description 712|18|43|50|beet|Step 1@Step 2@Step 3
+Recipe 534|Description 534|30|11|69|cereal@cumin@pepper|Step 1@Step 2
+Recipe 520|Description 520|25|31|108|pear@apple|Step 1@Step 2
+Recipe 291|Description 291|25|14|48|garlic@cumin@orange@peas@beet|Step 1@Step 2
+Recipe 202|Description 202|41|1|118|corn@water@onion@green beans@apricot|Step 1
+Recipe 245|Description 245|14|19|24|garlic@water@carrot|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 24|Description 24|39|20|95|beet@apple@milk@cauliflower@squash|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 694|Description 694|19|27|16|plum@bread@orange@broccoli@squash|Step 1
+Recipe 491|Description 491|24|25|105|ground turkey@avocado@peas|Step 1
+Recipe 818|Description 818|26|39|91|bacon@cucumber|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 449|Description 449|19|5|17|bacon|Step 1@Step 2@Step 3
+Recipe 714|Description 714|10|56|34|potato@cucumber@water|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 568|Description 568|45|38|52|peas|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 54|Description 54|43|14|31|pear@squash|Step 1@Step 2@Step 3
+Recipe 270|Description 270|21|43|70|egg|Step 1@Step 2@Step 3@Step 4
+Recipe 542|Description 542|38|32|111|milk@avocado@pepper@celery|Step 1
+Recipe 206|Description 206|19|35|36|water@ground beef@peach@pepper|Step 1@Step 2@Step 3
+Recipe 118|Description 118|21|23|89|onion@lime@garlic|Step 1@Step 2@Step 3@Step 4
+Recipe 556|Description 556|28|19|90|plum@beet@bread@corn@lemon|Step 1@Step 2@Step 3
+Recipe 229|Description 229|6|57|52|egg@cauliflower@nectarine|Step 1@Step 2
+Recipe 348|Description 348|24|29|69|potato|Step 1
+Recipe 437|Description 437|16|24|40|peas|Step 1@Step 2@Step 3@Step 4
+Recipe 887|Description 887|5|54|4|green beans@corn@celery@onion|Step 1
+Recipe 906|Description 906|34|48|37|carrot@orange@broccoli@lime@cucumber|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 416|Description 416|19|9|39|avocado@cucumber|Step 1@Step 2@Step 3
+Recipe 879|Description 879|14|45|19|ground beef@garlic@apple@water|Step 1@Step 2
+Recipe 101|Description 101|11|27|25|ground beef@cucumber|Step 1@Step 2@Step 3
+Recipe 649|Description 649|10|56|68|lime|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 834|Description 834|20|22|63|ground turkey|Step 1@Step 2@Step 3
+Recipe 499|Description 499|34|47|90|lemon@apple|Step 1@Step 2
+Recipe 996|Description 996|20|59|55|broccoli@apricot@bread@water@peach|Step 1@Step 2
+Recipe 966|Description 966|15|20|102|apricot|Step 1
+Recipe 264|Description 264|27|41|79|avocado@cumin|Step 1@Step 2@Step 3@Step 4
+Recipe 885|Description 885|29|33|14|ground beef|Step 1@Step 2@Step 3
+Recipe 618|Description 618|45|35|36|onion@peas|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 973|Description 973|5|6|39|cereal@avocado@squash|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 401|Description 401|22|45|106|pear@orange@nectarine@green beans|Step 1@Step 2
+Recipe 864|Description 864|5|24|50|ground beef@corn@lime|Step 1@Step 2@Step 3
+Recipe 632|Description 632|1|21|59|garlic@peas@orange@beet@lemon|Step 1
+Recipe 753|Description 753|13|14|7|lemon@egg@water|Step 1@Step 2
+Recipe 798|Description 798|35|22|6|cereal@peas|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 708|Description 708|15|7|43|pear@water@ground beef@lime|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 784|Description 784|8|23|84|potato@garlic@egg@peach@corn|Step 1@Step 2@Step 3@Step 4
+Recipe 643|Description 643|6|57|12|apple@plum|Step 1@Step 2@Step 3
+Recipe 494|Description 494|4|43|27|apple@salt@orange@onion@lime|Step 1@Step 2@Step 3
+Recipe 294|Description 294|45|16|24|cereal@green beans|Step 1@Step 2@Step 3@Step 4
+Recipe 950|Description 950|45|16|110|bread@cereal@carrot|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 931|Description 931|9|0|38|green beans@squash@peach@orange@onion|Step 1
+Recipe 650|Description 650|28|12|25|beet@nectarine@corn|Step 1
+Recipe 11|Description 11|16|35|21|broccoli|Step 1@Step 2
+Recipe 820|Description 820|8|43|105|pear@apricot@green beans@cucumber|Step 1@Step 2@Step 3@Step 4
+Recipe 190|Description 190|7|19|26|ground turkey@peas@cucumber@avocado@carrot|Step 1@Step 2
+Recipe 288|Description 288|33|23|24|ground beef@avocado@squash|Step 1
+Recipe 756|Description 756|6|29|33|broccoli@green beans@avocado@salt@pear|Step 1
+Recipe 695|Description 695|16|35|84|plum@cauliflower|Step 1@Step 2
+Recipe 880|Description 880|11|42|22|salt@celery@bread@beet@orange|Step 1
+Recipe 458|Description 458|9|45|11|onion@garlic|Step 1@Step 2
+Recipe 646|Description 646|24|50|79|orange@cauliflower@carrot@nectarine|Step 1@Step 2@Step 3
+Recipe 474|Description 474|38|21|0|celery@onion|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 385|Description 385|3|53|103|milk@orange@cereal@celery@apricot|Step 1@Step 2@Step 3
+Recipe 177|Description 177|9|26|37|celery@egg@ground turkey|Step 1@Step 2
+Recipe 506|Description 506|23|48|11|apricot@green beans@squash@potato|Step 1@Step 2
+Recipe 852|Description 852|43|34|38|onion|Step 1
+Recipe 558|Description 558|13|1|88|peas@garlic@onion@milk|Step 1
+Recipe 606|Description 606|33|36|108|avocado@lemon@apple@garlic|Step 1
+Recipe 218|Description 218|27|30|84|ground beef@bacon@salt@broccoli@nectarine|Step 1@Step 2
+Recipe 380|Description 380|44|33|69|lemon@orange|Step 1@Step 2@Step 3
+Recipe 176|Description 176|9|0|51|broccoli@peach|Step 1
+Recipe 329|Description 329|26|52|41|apple@cumin|Step 1@Step 2
+Recipe 213|Description 213|33|34|63|cauliflower@plum@garlic@potato@peas|Step 1@Step 2@Step 3@Step 4
+Recipe 631|Description 631|3|22|114|potato@apricot|Step 1@Step 2
+Recipe 979|Description 979|35|45|67|broccoli|Step 1@Step 2
+Recipe 639|Description 639|12|55|85|ground beef@corn@water@pear@egg|Step 1
+Recipe 77|Description 77|38|59|83|bacon@cauliflower@peas@ground beef@carrot|Step 1
+Recipe 705|Description 705|15|33|38|potato@onion@corn@nectarine|Step 1@Step 2@Step 3
+Recipe 94|Description 94|33|30|36|corn@ground turkey@celery@peach|Step 1
+Recipe 951|Description 951|37|37|97|green beans@plum@onion@garlic|Step 1@Step 2@Step 3
+Recipe 487|Description 487|50|25|14|green beans@cereal@pepper@broccoli@apricot|Step 1@Step 2
+Recipe 36|Description 36|32|15|84|ground turkey|Step 1
+Recipe 560|Description 560|23|4|76|nectarine@milk@carrot@squash@potato|Step 1@Step 2
+Recipe 31|Description 31|9|50|29|lime@plum@apricot@cumin|Step 1@Step 2@Step 3@Step 4
+Recipe 878|Description 878|49|16|99|cucumber@onion@green beans|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 75|Description 75|5|23|3|ground turkey@cereal@bacon@milk@water|Step 1@Step 2@Step 3
+Recipe 35|Description 35|42|27|69|plum|Step 1@Step 2
+Recipe 688|Description 688|38|12|58|cereal|Step 1@Step 2@Step 3
+Recipe 761|Description 761|18|40|40|squash|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 562|Description 562|46|24|0|onion@milk@bread@peach|Step 1@Step 2@Step 3@Step 4
+Recipe 513|Description 513|41|47|30|carrot@egg@peas|Step 1@Step 2@Step 3@Step 4
+Recipe 589|Description 589|47|59|115|lemon@apricot@potato@celery@plum|Step 1@Step 2@Step 3@Step 4
+Recipe 893|Description 893|15|56|52|cereal@apple@nectarine@water|Step 1@Step 2@Step 3@Step 4
+Recipe 942|Description 942|23|15|6|lime@cauliflower|Step 1
+Recipe 355|Description 355|49|27|36|orange@potato@peach|Step 1@Step 2@Step 3
+Recipe 678|Description 678|40|15|55|carrot@orange|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 954|Description 954|31|47|42|green beans@cereal@lemon@apple@onion|Step 1@Step 2@Step 3
+Recipe 195|Description 195|48|54|2|orange|Step 1@Step 2@Step 3@Step 4
+Recipe 57|Description 57|8|12|4|beet@apple@cumin|Step 1@Step 2@Step 3@Step 4
+Recipe 134|Description 134|40|48|31|nectarine@onion@peach|Step 1@Step 2@Step 3@Step 4
+Recipe 876|Description 876|19|27|97|cucumber@garlic@cereal@pepper@lime|Step 1@Step 2@Step 3
+Recipe 96|Description 96|21|10|67|broccoli@squash@peach|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 402|Description 402|14|6|34|broccoli@peas|Step 1@Step 2
+Recipe 573|Description 573|12|1|77|water@peach@green beans@salt@lime|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 275|Description 275|6|53|46|cucumber@carrot@onion@milk|Step 1@Step 2
+Recipe 216|Description 216|16|7|14|ground turkey@cucumber@avocado@plum@cereal|Step 1@Step 2
+Recipe 658|Description 658|23|55|73|salt@onion@squash@carrot|Step 1@Step 2@Step 3
+Recipe 32|Description 32|15|14|6|onion@cauliflower@nectarine|Step 1@Step 2
+Recipe 285|Description 285|29|48|37|squash@peach@onion@nectarine|Step 1
+Recipe 198|Description 198|5|52|117|lime@garlic@nectarine@corn@salt|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 571|Description 571|4|17|88|corn@bread@plum@cumin@cucumber|Step 1@Step 2@Step 3@Step 4
+Recipe 997|Description 997|39|26|60|apple@avocado@plum@cereal@pepper|Step 1@Step 2@Step 3@Step 4
+Recipe 514|Description 514|22|55|119|apricot@nectarine@cauliflower@corn|Step 1@Step 2
+Recipe 241|Description 241|6|42|118|squash@milk@pear@corn@pepper|Step 1@Step 2@Step 3
+Recipe 789|Description 789|29|26|14|squash@water@bread@egg@peas|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 715|Description 715|13|56|75|corn@nectarine@egg|Step 1
+Recipe 788|Description 788|50|29|0|corn@egg|Step 1@Step 2
+Recipe 883|Description 883|39|36|3|pear@apple|Step 1
+Recipe 459|Description 459|11|54|73|carrot|Step 1@Step 2@Step 3
+Recipe 970|Description 970|21|55|86|nectarine@pepper@egg@broccoli|Step 1@Step 2@Step 3
+Recipe 268|Description 268|36|47|82|avocado@bread|Step 1@Step 2@Step 3@Step 4
+Recipe 865|Description 865|34|18|99|carrot@egg@plum@nectarine|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 693|Description 693|19|11|47|squash@corn|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 310|Description 310|30|2|62|lemon@egg@peach@orange|Step 1@Step 2@Step 3@Step 4
+Recipe 999|Description 999|31|29|93|lime@carrot@avocado|Step 1@Step 2@Step 3@Step 4
+Recipe 53|Description 53|46|54|74|carrot@garlic@ground turkey@cumin|Step 1@Step 2@Step 3
+Recipe 478|Description 478|26|6|24|squash|Step 1@Step 2@Step 3@Step 4
+Recipe 14|Description 14|41|12|33|orange@bread@garlic|Step 1@Step 2
+Recipe 359|Description 359|9|21|19|corn@salt@cereal@pear|Step 1@Step 2@Step 3@Step 4
+Recipe 987|Description 987|34|11|108|water@ground turkey@peach@broccoli@egg|Step 1
+Recipe 12|Description 12|32|3|52|corn@peas@avocado|Step 1@Step 2@Step 3
+Recipe 199|Description 199|3|4|77|bread@water|Step 1@Step 2
+Recipe 76|Description 76|26|39|42|potato@squash@broccoli|Step 1@Step 2@Step 3
+Recipe 516|Description 516|6|2|106|cauliflower@celery@pear@lemon@bacon|Step 1@Step 2
+Recipe 122|Description 122|36|44|114|salt@beet@pear@cauliflower|Step 1@Step 2
+Recipe 990|Description 990|7|18|83|broccoli@plum|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 372|Description 372|2|44|88|plum@water@ground beef@lemon|Step 1@Step 2@Step 3@Step 4
+Recipe 927|Description 927|34|15|43|milk@bread@peach@orange|Step 1@Step 2
+Recipe 305|Description 305|12|32|88|avocado|Step 1
+Recipe 677|Description 677|6|15|40|squash|Step 1
+Recipe 697|Description 697|9|21|29|cucumber@bread@peas|Step 1@Step 2@Step 3@Step 4
+Recipe 473|Description 473|5|31|89|celery@cereal|Step 1@Step 2@Step 3@Step 4
+Recipe 239|Description 239|15|16|3|salt|Step 1@Step 2
+Recipe 451|Description 451|35|25|69|peach@peas@squash|Step 1@Step 2@Step 3@Step 4
+Recipe 844|Description 844|35|4|63|onion@peas@cauliflower@garlic@pepper|Step 1@Step 2
+Recipe 830|Description 830|18|30|61|lime@garlic@carrot@lemon@pepper|Step 1
+Recipe 528|Description 528|29|27|39|salt@peach@milk|Step 1@Step 2@Step 3
+Recipe 601|Description 601|42|59|12|plum@ground turkey@apricot@egg|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 431|Description 431|12|1|29|peas@onion@pepper|Step 1@Step 2
+Recipe 807|Description 807|20|5|60|orange@pear@potato@cauliflower|Step 1
+Recipe 576|Description 576|40|4|81|carrot@lemon|Step 1
+Recipe 585|Description 585|47|30|57|cereal@squash@corn@nectarine|Step 1@Step 2@Step 3
+Recipe 485|Description 485|5|35|87|cucumber@squash|Step 1@Step 2@Step 3@Step 4
+Recipe 922|Description 922|12|50|1|orange@pepper@green beans@bacon|Step 1
+Recipe 347|Description 347|7|29|0|ground beef@avocado@water@egg|Step 1@Step 2
+Recipe 157|Description 157|19|49|23|bread|Step 1@Step 2@Step 3@Step 4
+Recipe 926|Description 926|10|55|112|garlic@broccoli|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 421|Description 421|19|40|84|lemon@onion|Step 1
+Recipe 80|Description 80|50|6|49|carrot|Step 1@Step 2
+Recipe 477|Description 477|19|20|18|lime@peas@cumin@cereal|Step 1@Step 2@Step 3@Step 4
+Recipe 676|Description 676|23|39|55|apple@lemon|Step 1@Step 2@Step 3
+Recipe 393|Description 393|3|11|49|egg@cumin|Step 1@Step 2@Step 3@Step 4
+Recipe 840|Description 840|1|55|38|broccoli|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 259|Description 259|19|24|22|cauliflower@apricot@water|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 19|Description 19|4|5|95|water@green beans|Step 1@Step 2
+Recipe 133|Description 133|47|2|34|pear@orange@corn@garlic@cauliflower|Step 1
+Recipe 376|Description 376|42|5|59|potato@cereal@ground beef@peach@squash|Step 1
+Recipe 894|Description 894|22|50|27|orange@broccoli@cauliflower|Step 1@Step 2
+Recipe 859|Description 859|38|13|7|squash|Step 1@Step 2
+Recipe 447|Description 447|43|0|13|orange@bread@avocado|Step 1@Step 2
+Recipe 47|Description 47|46|15|61|lime@plum@bacon@egg@bread|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 488|Description 488|16|42|84|salt@cumin|Step 1
+Recipe 188|Description 188|48|39|100|beet@bread@broccoli@orange|Step 1@Step 2@Step 3
+Recipe 723|Description 723|2|37|79|orange@celery@water@lime|Step 1@Step 2@Step 3@Step 4
+Recipe 277|Description 277|41|57|25|apple@garlic@squash@orange|Step 1@Step 2@Step 3
+Recipe 16|Description 16|15|58|25|cumin@celery@ground beef@beet@bread|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 860|Description 860|28|19|115|potato@lemon@bacon@milk@celery|Step 1@Step 2@Step 3@Step 4
+Recipe 116|Description 116|33|50|105|apricot@garlic@pepper|Step 1@Step 2
+Recipe 638|Description 638|43|25|51|peas@avocado@pear|Step 1@Step 2
+Recipe 627|Description 627|4|14|99|onion@cumin@cauliflower@egg@avocado|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 471|Description 471|3|19|39|lemon@milk|Step 1@Step 2
+Recipe 498|Description 498|2|23|3|apple|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 774|Description 774|5|12|82|apple@peas@water|Step 1@Step 2@Step 3@Step 4
+Recipe 731|Description 731|41|2|16|lime|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 750|Description 750|15|12|72|lime@corn|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 786|Description 786|7|22|110|ground turkey@squash|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 940|Description 940|22|34|55|milk@corn@cucumber@peas@plum|Step 1@Step 2@Step 3
+Recipe 62|Description 62|42|16|23|carrot@peach@cauliflower|Step 1
+Recipe 952|Description 952|17|0|58|apricot@ground beef|Step 1@Step 2@Step 3
+Recipe 711|Description 711|12|11|54|cumin@pepper|Step 1@Step 2@Step 3@Step 4
+Recipe 1|Description 1|4|11|39|cereal@squash@ground beef@salt|Step 1
+Recipe 710|Description 710|43|39|26|peas@ground beef@celery@carrot@cauliflower|Step 1@Step 2@Step 3@Step 4
+Recipe 71|Description 71|8|18|103|orange@pear@bacon|Step 1@Step 2@Step 3
+Recipe 162|Description 162|31|31|9|broccoli@garlic@beet@pear@bacon|Step 1@Step 2
+Recipe 995|Description 995|16|0|89|nectarine@cereal|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 910|Description 910|4|54|43|celery@lemon@bacon|Step 1@Step 2
+Recipe 18|Description 18|10|10|76|cauliflower@bacon|Step 1@Step 2@Step 3
+Recipe 717|Description 717|23|34|16|bacon@ground beef|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 913|Description 913|2|18|59|squash@bread|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 279|Description 279|26|47|5|garlic@lime@pepper|Step 1@Step 2@Step 3
+Recipe 124|Description 124|30|53|81|orange@ground turkey@green beans@lemon|Step 1
+Recipe 872|Description 872|6|41|117|celery@green beans|Step 1@Step 2
+Recipe 554|Description 554|5|47|112|cereal@egg@nectarine@corn@celery|Step 1@Step 2@Step 3
+Recipe 197|Description 197|36|11|93|orange@beet@lemon@corn|Step 1@Step 2
+Recipe 342|Description 342|49|23|47|peach@cereal@plum@potato|Step 1@Step 2
+Recipe 994|Description 994|13|35|39|garlic|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 227|Description 227|32|4|73|ground turkey@bread@apricot|Step 1@Step 2
+Recipe 799|Description 799|8|43|9|egg@plum@ground turkey|Step 1@Step 2@Step 3
+Recipe 690|Description 690|39|56|67|broccoli|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 617|Description 617|8|59|6|beet@peach@green beans@carrot@cauliflower|Step 1@Step 2@Step 3@Step 4
+Recipe 909|Description 909|46|16|29|lemon@pear@milk@lime|Step 1
+Recipe 824|Description 824|19|41|43|corn@beet@bread|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 460|Description 460|39|56|76|beet@cereal@water@pear|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 751|Description 751|27|8|68|bacon|Step 1@Step 2
+Recipe 354|Description 354|4|59|116|potato@nectarine|Step 1
+Recipe 537|Description 537|1|31|22|pepper@cucumber|Step 1@Step 2@Step 3
+Recipe 165|Description 165|22|25|114|bacon|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 479|Description 479|15|49|65|avocado@peach|Step 1@Step 2@Step 3@Step 4
+Recipe 17|Description 17|8|29|12|apple@peas@bread|Step 1@Step 2
+Recipe 611|Description 611|28|52|15|salt@ground beef@orange|Step 1@Step 2@Step 3@Step 4
+Recipe 503|Description 503|41|23|112|squash@cucumber|Step 1
+Recipe 267|Description 267|37|22|46|orange@corn@avocado|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 442|Description 442|25|40|92|plum@corn|Step 1@Step 2@Step 3
+Recipe 144|Description 144|19|18|106|cucumber@water|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 238|Description 238|20|25|25|salt@garlic|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 369|Description 369|26|14|89|milk@peach|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 803|Description 803|33|27|107|water|Step 1@Step 2
+Recipe 186|Description 186|39|35|7|lemon@apricot@bacon@beet|Step 1@Step 2@Step 3@Step 4
+Recipe 635|Description 635|30|17|54|pepper@cucumber@milk@lemon|Step 1@Step 2@Step 3@Step 4
+Recipe 44|Description 44|23|43|22|celery@lime@lemon|Step 1@Step 2@Step 3@Step 4
+Recipe 112|Description 112|26|16|33|carrot@milk|Step 1
+Recipe 167|Description 167|22|50|83|water@celery|Step 1@Step 2@Step 3@Step 4
+Recipe 97|Description 97|44|15|16|green beans@plum@lemon@celery|Step 1@Step 2@Step 3@Step 4
+Recipe 286|Description 286|24|37|111|pear|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 309|Description 309|29|0|42|corn@potato@ground beef@plum|Step 1@Step 2@Step 3
+Recipe 787|Description 787|23|55|79|squash@garlic@lime@ground turkey|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 98|Description 98|34|18|116|plum@apricot@water@broccoli@lemon|Step 1
+Recipe 766|Description 766|30|19|17|milk@apricot@broccoli|Step 1
+Recipe 74|Description 74|24|11|105|ground turkey|Step 1@Step 2@Step 3
+Recipe 759|Description 759|17|0|92|potato@cereal@corn|Step 1@Step 2@Step 3
+Recipe 626|Description 626|50|43|107|lime@onion|Step 1@Step 2
+Recipe 168|Description 168|40|1|54|avocado@peach@cauliflower@apricot@lime|Step 1@Step 2@Step 3@Step 4
+Recipe 767|Description 767|30|49|81|apricot@broccoli@garlic@squash@cereal|Step 1@Step 2
+Recipe 323|Description 323|11|54|96|carrot@broccoli|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 517|Description 517|35|6|77|salt@broccoli@pear@cumin@carrot|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 158|Description 158|32|26|109|corn@squash|Step 1
+Recipe 426|Description 426|4|58|37|apple|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 551|Description 551|23|21|53|apricot@garlic@onion@avocado@lemon|Step 1@Step 2@Step 3
+Recipe 745|Description 745|41|30|10|ground beef@plum|Step 1@Step 2
+Recipe 382|Description 382|42|51|54|garlic@cauliflower@orange@cucumber|Step 1@Step 2
+Recipe 899|Description 899|43|35|110|salt@celery|Step 1@Step 2
+Recipe 86|Description 86|5|47|67|ground turkey@squash@plum@pepper@beet|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 810|Description 810|30|0|7|water@cumin|Step 1@Step 2@Step 3@Step 4
+Recipe 870|Description 870|26|19|87|peach@lemon|Step 1@Step 2
+Recipe 895|Description 895|25|21|102|celery@pear|Step 1@Step 2@Step 3
+Recipe 298|Description 298|16|18|27|lime|Step 1@Step 2@Step 3
+Recipe 779|Description 779|4|55|9|apple@salt@orange|Step 1
+Recipe 790|Description 790|48|49|27|cereal@bread@cumin@ground turkey|Step 1@Step 2
+Recipe 595|Description 595|17|12|68|potato@celery@plum|Step 1@Step 2@Step 3@Step 4
+Recipe 672|Description 672|27|59|2|orange@pepper@ground beef@cucumber@plum|Step 1@Step 2
+Recipe 780|Description 780|21|17|54|apricot@broccoli@bread@salt|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 969|Description 969|2|28|79|milk@bread|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 838|Description 838|12|1|67|lime|Step 1@Step 2@Step 3@Step 4
+Recipe 100|Description 100|1|7|1|cucumber@egg|Step 1@Step 2@Step 3@Step 4
+Recipe 963|Description 963|40|1|70|celery@carrot|Step 1@Step 2@Step 3@Step 4
+Recipe 587|Description 587|40|10|38|cereal@salt@garlic@plum@nectarine|Step 1@Step 2@Step 3@Step 4
+Recipe 357|Description 357|22|47|3|peas@carrot|Step 1@Step 2
+Recipe 535|Description 535|42|11|108|avocado@milk@ground turkey@ground beef|Step 1@Step 2
+Recipe 765|Description 765|8|52|80|beet@ground beef|Step 1@Step 2
+Recipe 436|Description 436|30|30|78|beet@lemon@cereal@nectarine|Step 1@Step 2@Step 3@Step 4
+Recipe 254|Description 254|7|5|14|nectarine@cereal@plum@apricot@bread|Step 1
+Recipe 300|Description 300|14|36|47|plum@squash|Step 1@Step 2
+Recipe 325|Description 325|17|48|90|cauliflower@lemon@water@plum@apple|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 578|Description 578|42|29|49|apple|Step 1
+Recipe 737|Description 737|13|5|102|pepper@salt|Step 1@Step 2
+Recipe 545|Description 545|43|38|111|peach@cucumber@cereal|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 629|Description 629|43|35|117|cumin@squash@garlic@apple@peas|Step 1
+Recipe 420|Description 420|47|11|93|green beans@cauliflower@salt@squash@beet|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 51|Description 51|8|24|26|pepper@egg@green beans@celery@onion|Step 1@Step 2@Step 3
+Recipe 461|Description 461|10|39|43|water|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 707|Description 707|24|39|36|avocado@garlic|Step 1@Step 2@Step 3
+Recipe 182|Description 182|15|31|74|cereal@corn@plum@nectarine@pear|Step 1@Step 2@Step 3@Step 4
+Recipe 399|Description 399|7|5|71|milk|Step 1
+Recipe 505|Description 505|10|55|43|bacon@beet@apricot|Step 1@Step 2@Step 3@Step 4
+Recipe 655|Description 655|25|27|111|squash@green beans|Step 1@Step 2@Step 3
+Recipe 652|Description 652|38|15|5|cereal@bacon|Step 1@Step 2@Step 3
+Recipe 656|Description 656|2|1|95|salt|Step 1@Step 2
+Recipe 825|Description 825|18|46|56|lemon@beet@apple@cereal@celery|Step 1@Step 2@Step 3@Step 4
+Recipe 507|Description 507|46|42|100|beet@cereal@green beans|Step 1
+Recipe 530|Description 530|17|37|40|peas@plum@pepper@peach@lime|Step 1
+Recipe 361|Description 361|36|55|17|squash@beet|Step 1@Step 2@Step 3
+Recipe 854|Description 854|2|38|35|bread@onion@bacon@lemon|Step 1@Step 2@Step 3
+Recipe 412|Description 412|28|8|99|peach@apple@peas|Step 1@Step 2@Step 3
+Recipe 394|Description 394|21|33|9|garlic@lemon@bread|Step 1@Step 2@Step 3@Step 4
+Recipe 959|Description 959|11|56|6|bacon@pepper|Step 1@Step 2@Step 3
+Recipe 736|Description 736|49|31|13|pear@bacon@apple@celery|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 657|Description 657|35|58|33|lime@ground turkey@bacon@bread@broccoli|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 303|Description 303|28|50|90|nectarine@orange@water@plum@beet|Step 1@Step 2@Step 3@Step 4
+Recipe 383|Description 383|24|35|97|onion@peach@ground turkey@potato@carrot|Step 1@Step 2
+Recipe 738|Description 738|17|11|115|cumin@apricot@peas@avocado|Step 1@Step 2@Step 3@Step 4
+Recipe 228|Description 228|12|45|6|bread@potato|Step 1@Step 2@Step 3@Step 4
+Recipe 55|Description 55|27|31|6|bread@apple@bacon@salt|Step 1@Step 2@Step 3@Step 4
+Recipe 772|Description 772|43|54|81|pepper@onion@peach|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 391|Description 391|7|41|16|celery@carrot|Step 1@Step 2@Step 3@Step 4
+Recipe 665|Description 665|19|54|91|orange@nectarine@apple@pear@plum|Step 1@Step 2
+Recipe 644|Description 644|8|0|41|bread@salt@lime@cucumber@corn|Step 1@Step 2@Step 3@Step 4
+Recipe 841|Description 841|12|56|43|celery@lemon@bread|Step 1
+Recipe 467|Description 467|32|40|69|peas@pepper@orange@carrot|Step 1
+Recipe 600|Description 600|41|53|47|squash@avocado@peach@garlic@green beans|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 892|Description 892|30|55|7|cauliflower|Step 1@Step 2
+Recipe 956|Description 956|46|11|45|squash@lime@broccoli@potato|Step 1@Step 2@Step 3
+Recipe 918|Description 918|19|49|82|bread@corn@cauliflower|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 552|Description 552|35|46|23|peach@orange@onion@broccoli|Step 1@Step 2@Step 3@Step 4
+Recipe 778|Description 778|20|30|43|potato@orange@apple@lime@nectarine|Step 1@Step 2@Step 3
+Recipe 317|Description 317|1|39|32|plum@ground beef|Step 1@Step 2@Step 3
+Recipe 283|Description 283|33|54|5|ground turkey|Step 1@Step 2@Step 3
+Recipe 964|Description 964|15|6|19|pepper@green beans@ground beef@pear@lime|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 349|Description 349|44|25|26|onion|Step 1@Step 2@Step 3
+Recipe 728|Description 728|1|27|109|bacon@squash@beet|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 511|Description 511|1|19|20|milk@beet@salt|Step 1@Step 2@Step 3@Step 4
+Recipe 445|Description 445|10|17|53|plum@pepper@apple@cereal@onion|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 623|Description 623|21|27|93|celery@salt|Step 1@Step 2@Step 3@Step 4
+Recipe 136|Description 136|32|36|115|cucumber@beet@carrot@apple@corn|Step 1
+Recipe 819|Description 819|21|29|6|squash@peas@carrot|Step 1@Step 2@Step 3@Step 4
+Recipe 403|Description 403|47|53|118|garlic|Step 1@Step 2
+Recipe 806|Description 806|18|0|35|milk@apple|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 700|Description 700|36|38|31|apple|Step 1@Step 2
+Recipe 741|Description 741|34|17|79|salt@cucumber|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 217|Description 217|3|42|31|broccoli|Step 1@Step 2@Step 3@Step 4
+Recipe 608|Description 608|31|45|73|avocado@cauliflower@egg@plum@corn|Step 1
+Recipe 636|Description 636|9|39|106|bread@cucumber@water@cereal@broccoli|Step 1@Step 2
+Recipe 962|Description 962|28|1|82|pepper|Step 1@Step 2@Step 3
+Recipe 224|Description 224|42|17|16|peas|Step 1@Step 2@Step 3
+Recipe 102|Description 102|30|43|6|peas|Step 1@Step 2@Step 3@Step 4
+Recipe 432|Description 432|38|11|111|egg|Step 1@Step 2@Step 3
+Recipe 257|Description 257|33|6|98|broccoli|Step 1
+Recipe 703|Description 703|24|6|62|onion@celery@plum|Step 1@Step 2@Step 3
+Recipe 282|Description 282|19|17|43|nectarine@orange@avocado@green beans@salt|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 901|Description 901|40|3|24|cucumber@green beans@peas|Step 1@Step 2
+Recipe 221|Description 221|3|16|116|bread|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 603|Description 603|43|28|33|onion@green beans|Step 1@Step 2@Step 3
+Recipe 923|Description 923|36|26|60|celery@garlic|Step 1
+Recipe 234|Description 234|38|54|37|squash@broccoli@apple|Step 1@Step 2@Step 3@Step 4
+Recipe 527|Description 527|35|1|67|squash@peas@pepper|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 424|Description 424|3|41|107|cumin@apple@pepper@green beans@salt|Step 1@Step 2
+Recipe 240|Description 240|34|57|33|apple|Step 1
+Recipe 625|Description 625|32|50|98|pepper@milk@corn@pear|Step 1@Step 2
+Recipe 204|Description 204|36|3|0|nectarine@ground beef@lemon@egg|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 847|Description 847|16|25|72|broccoli@lemon@pear|Step 1@Step 2@Step 3
+Recipe 941|Description 941|47|44|94|broccoli|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 127|Description 127|44|19|52|orange@egg@avocado@cereal@beet|Step 1
+Recipe 117|Description 117|11|21|55|water@onion|Step 1@Step 2@Step 3@Step 4
+Recipe 692|Description 692|37|27|32|bread|Step 1@Step 2
+Recipe 526|Description 526|8|19|82|egg@milk@pepper@bacon|Step 1@Step 2@Step 3@Step 4
+Recipe 746|Description 746|15|22|75|pepper@plum@nectarine@apple|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 592|Description 592|38|16|19|celery|Step 1
+Recipe 877|Description 877|32|28|21|peach@milk@lime|Step 1@Step 2
+Recipe 476|Description 476|40|10|17|cucumber@plum@celery|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 681|Description 681|16|43|3|orange@corn|Step 1@Step 2
+Recipe 42|Description 42|8|52|27|beet@onion|Step 1@Step 2@Step 3
+Recipe 415|Description 415|47|9|55|broccoli@milk@cucumber|Step 1@Step 2@Step 3
+Recipe 622|Description 622|47|6|16|squash@bread@lemon@egg|Step 1@Step 2@Step 3@Step 4
+Recipe 41|Description 41|42|7|39|ground turkey@ground beef@lemon@nectarine|Step 1@Step 2@Step 3@Step 4
+Recipe 888|Description 888|36|21|35|cumin@corn@lemon@celery@pear|Step 1@Step 2@Step 3
+Recipe 368|Description 368|24|9|62|pear@potato@plum|Step 1@Step 2@Step 3
+Recipe 6|Description 6|24|9|65|pepper@nectarine@lemon@beet@apricot|Step 1@Step 2@Step 3@Step 4
+Recipe 620|Description 620|8|41|54|milk|Step 1@Step 2
+Recipe 443|Description 443|24|26|70|nectarine@beet@bacon|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 538|Description 538|25|32|28|carrot|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 73|Description 73|27|23|6|broccoli@salt|Step 1@Step 2@Step 3@Step 4
+Recipe 800|Description 800|49|29|118|bacon@water@apple@potato@cumin|Step 1@Step 2@Step 3@Step 4
+Recipe 500|Description 500|7|57|79|garlic|Step 1@Step 2
+Recipe 613|Description 613|27|13|23|bread@apple|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 553|Description 553|13|26|28|ground turkey@green beans@bacon@cucumber@nectarine|Step 1@Step 2
+Recipe 151|Description 151|18|46|39|lemon@water@peach@milk|Step 1@Step 2@Step 3
+Recipe 855|Description 855|12|20|99|cucumber@ground beef@pepper|Step 1
+Recipe 106|Description 106|9|14|24|milk@nectarine|Step 1@Step 2@Step 3@Step 4
+Recipe 937|Description 937|14|22|110|cauliflower@bacon@apricot@green beans@egg|Step 1@Step 2
+Recipe 63|Description 63|36|31|73|ground beef@broccoli@bread|Step 1@Step 2@Step 3
+Recipe 115|Description 115|12|52|85|cauliflower@peas@potato@squash@cumin|Step 1@Step 2@Step 3
+Recipe 762|Description 762|48|26|88|orange@squash|Step 1@Step 2
+Recipe 137|Description 137|27|45|66|cereal@broccoli|Step 1@Step 2
+Recipe 149|Description 149|36|45|55|avocado@bacon|Step 1
+Recipe 851|Description 851|3|42|60|cumin@potato@celery@broccoli|Step 1@Step 2
+Recipe 396|Description 396|45|58|16|cauliflower@pepper|Step 1@Step 2@Step 3@Step 4
+Recipe 82|Description 82|45|38|66|cauliflower|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 324|Description 324|10|51|0|celery@salt@cauliflower|Step 1@Step 2@Step 3
+Recipe 408|Description 408|15|46|20|garlic@apple@broccoli@avocado|Step 1@Step 2@Step 3
+Recipe 250|Description 250|40|40|12|apricot@carrot|Step 1@Step 2
+Recipe 713|Description 713|31|4|26|onion@cumin|Step 1
+Recipe 232|Description 232|19|43|61|cumin@egg@broccoli@water@pepper|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 481|Description 481|16|23|58|peach@bread@plum@garlic|Step 1@Step 2@Step 3
+Recipe 621|Description 621|30|30|38|nectarine@celery@bacon|Step 1@Step 2@Step 3
+Recipe 411|Description 411|34|4|33|corn@lime@peas|Step 1
+Recipe 78|Description 78|30|56|119|celery|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 350|Description 350|38|5|22|garlic@onion@lemon@salt|Step 1@Step 2
+Recipe 729|Description 729|35|9|113|potato@avocado@broccoli@corn|Step 1@Step 2
+Recipe 244|Description 244|17|11|33|green beans|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 46|Description 46|16|13|114|corn@bacon@bread@lime@beet|Step 1@Step 2
+Recipe 5|Description 5|28|16|36|orange@bacon@milk@green beans@garlic|Step 1
+Recipe 7|Description 7|15|41|50|peach|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 602|Description 602|8|23|97|apple@lemon@squash@broccoli|Step 1@Step 2@Step 3@Step 4
+Recipe 363|Description 363|44|13|59|lime@plum@peach@squash|Step 1@Step 2
+Recipe 152|Description 152|4|47|113|cumin|Step 1
+Recipe 70|Description 70|28|15|111|salt@apple@peas@garlic|Step 1@Step 2@Step 3
+Recipe 489|Description 489|50|3|36|ground turkey|Step 1@Step 2@Step 3@Step 4
+Recipe 392|Description 392|33|11|51|corn@plum|Step 1@Step 2
+Recipe 104|Description 104|33|56|86|peach@bread@peas@lime|Step 1@Step 2@Step 3
+Recipe 373|Description 373|13|46|0|ground turkey@corn@cauliflower@potato@lemon|Step 1
+Recipe 817|Description 817|21|58|58|orange@cauliflower@pear|Step 1
+Recipe 13|Description 13|9|50|85|pepper@cereal@plum@milk|Step 1
+Recipe 418|Description 418|6|2|70|celery@ground turkey@pear@salt|Step 1@Step 2
+Recipe 52|Description 52|33|3|95|avocado@celery@squash@broccoli@pear|Step 1@Step 2@Step 3@Step 4
+Recipe 425|Description 425|45|23|90|garlic|Step 1@Step 2
+Recipe 292|Description 292|6|40|52|ground turkey|Step 1@Step 2@Step 3@Step 4
+Recipe 365|Description 365|8|52|107|carrot@water@apricot|Step 1@Step 2@Step 3@Step 4
+Recipe 539|Description 539|38|19|76|pear@egg|Step 1@Step 2@Step 3@Step 4
+Recipe 1000|Description 1000|28|33|107|ground turkey@nectarine|Step 1@Step 2@Step 3@Step 4
+Recipe 289|Description 289|44|42|55|cauliflower|Step 1@Step 2
+Recipe 8|Description 8|33|7|116|ground turkey@corn|Step 1
+Recipe 456|Description 456|5|8|1|squash|Step 1
+Recipe 549|Description 549|23|59|43|lemon@peas@squash|Step 1@Step 2@Step 3
+Recipe 92|Description 92|14|45|21|onion|Step 1@Step 2
+Recipe 438|Description 438|36|26|92|nectarine@peas@egg@corn@plum|Step 1@Step 2@Step 3@Step 4
+Recipe 422|Description 422|11|15|71|cereal@onion@garlic@lemon|Step 1@Step 2
+Recipe 813|Description 813|50|46|37|cucumber@green beans|Step 1@Step 2@Step 3@Step 4
+Recipe 337|Description 337|3|16|28|apricot@garlic@pear|Step 1@Step 2@Step 3
+Recipe 726|Description 726|13|58|10|ground turkey@ground beef@squash@water@apple|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 180|Description 180|27|56|38|cumin@water@onion@apple@peach|Step 1@Step 2@Step 3@Step 4
+Recipe 567|Description 567|30|54|46|peach|Step 1@Step 2
+Recipe 330|Description 330|25|4|61|carrot|Step 1@Step 2@Step 3
+Recipe 945|Description 945|17|18|73|nectarine@lemon@potato|Step 1@Step 2@Step 3@Step 4
+Recipe 61|Description 61|26|51|31|plum@garlic|Step 1@Step 2@Step 3
+Recipe 495|Description 495|33|29|57|apple@water@cauliflower|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 407|Description 407|50|27|77|lime|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 968|Description 968|1|20|108|corn@apple@cereal|Step 1@Step 2@Step 3@Step 4
+Recipe 490|Description 490|25|10|96|onion@squash|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 515|Description 515|33|21|8|apricot@milk@avocado|Step 1@Step 2@Step 3@Step 4
+Recipe 22|Description 22|49|0|85|pepper@cumin@cereal@nectarine|Step 1@Step 2
+Recipe 484|Description 484|20|25|31|milk@potato@cumin@onion@peach|Step 1@Step 2
+Recipe 523|Description 523|18|40|97|potato@bacon|Step 1@Step 2@Step 3@Step 4
+Recipe 326|Description 326|33|8|111|peas@corn@cereal|Step 1@Step 2@Step 3
+Recipe 475|Description 475|39|52|93|pear@avocado@ground beef@bacon|Step 1@Step 2@Step 3@Step 4
+Recipe 463|Description 463|5|54|45|broccoli@lemon|Step 1
+Recipe 924|Description 924|36|58|30|onion|Step 1@Step 2
+Recipe 782|Description 782|11|14|9|squash@peach|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 998|Description 998|24|17|109|apple@cauliflower@squash|Step 1
+Recipe 768|Description 768|48|12|90|cereal@peas|Step 1@Step 2
+Recipe 749|Description 749|6|13|48|peas@avocado@beet|Step 1@Step 2
+Recipe 249|Description 249|29|19|87|celery@green beans@garlic@pepper|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 161|Description 161|1|34|19|cumin@avocado@cucumber@orange@egg|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 220|Description 220|38|57|90|cucumber@pepper|Step 1@Step 2@Step 3
+Recipe 525|Description 525|25|16|14|peach@pepper|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 699|Description 699|45|18|61|peas@water|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 795|Description 795|10|2|17|onion@green beans@water@bacon@carrot|Step 1@Step 2@Step 3@Step 4
+Recipe 492|Description 492|49|45|95|avocado|Step 1@Step 2@Step 3
+Recipe 247|Description 247|7|46|82|bread@peach@garlic@green beans@salt|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 89|Description 89|15|27|64|lime@pear@plum@garlic|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 696|Description 696|7|50|55|garlic|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 561|Description 561|21|21|81|squash@green beans@beet|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 827|Description 827|46|52|67|salt@garlic|Step 1@Step 2@Step 3@Step 4
+Recipe 111|Description 111|37|6|23|egg@pear|Step 1@Step 2@Step 3@Step 4
+Recipe 698|Description 698|13|59|1|peach@pepper|Step 1@Step 2
+Recipe 508|Description 508|7|0|8|peas@nectarine@onion@apricot|Step 1@Step 2
+Recipe 353|Description 353|43|4|67|cumin@milk@bacon|Step 1@Step 2
+Recipe 210|Description 210|26|28|18|broccoli@ground turkey@cereal|Step 1
+Recipe 65|Description 65|29|37|91|plum@cauliflower@bread@cumin|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 773|Description 773|43|31|101|broccoli|Step 1@Step 2
+Recipe 591|Description 591|20|12|83|water|Step 1
+Recipe 212|Description 212|24|5|39|celery@squash|Step 1@Step 2@Step 3
+Recipe 735|Description 735|11|8|19|beet@green beans@peas@lime@apple|Step 1@Step 2@Step 3@Step 4
+Recipe 955|Description 955|7|6|65|egg@water@lime|Step 1
+Recipe 802|Description 802|8|18|106|garlic@ground turkey@bacon|Step 1@Step 2@Step 3
+Recipe 881|Description 881|23|32|71|lemon@garlic@broccoli|Step 1@Step 2
+Recipe 957|Description 957|27|19|80|peach|Step 1@Step 2@Step 3
+Recipe 43|Description 43|18|50|82|pepper|Step 1@Step 2@Step 3@Step 4
+Recipe 928|Description 928|4|11|10|plum@celery@bacon|Step 1@Step 2@Step 3@Step 4
+Recipe 989|Description 989|2|17|10|nectarine@apricot@apple@potato@cucumber|Step 1@Step 2@Step 3@Step 4
+Recipe 982|Description 982|39|18|91|pepper@cucumber@potato@ground turkey|Step 1
+Recipe 84|Description 84|33|17|101|onion@bacon@cucumber|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 640|Description 640|17|17|89|salt|Step 1@Step 2
+Recipe 95|Description 95|26|11|90|milk@corn@pear@beet|Step 1@Step 2@Step 3@Step 4
+Recipe 935|Description 935|22|16|89|carrot@lime|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 242|Description 242|24|45|16|pepper@broccoli@water@peas|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 409|Description 409|8|23|89|plum@milk@water@cucumber@peach|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 299|Description 299|33|5|55|potato@green beans@apricot@bacon|Step 1@Step 2@Step 3
+Recipe 20|Description 20|23|32|4|milk|Step 1@Step 2@Step 3@Step 4
+Recipe 166|Description 166|23|43|65|carrot@beet@celery@cereal@corn|Step 1
+Recipe 960|Description 960|5|25|67|bacon@cucumber@water@ground beef|Step 1@Step 2
+Recipe 642|Description 642|43|43|103|corn@avocado@lemon@carrot|Step 1
+Recipe 145|Description 145|20|55|29|water@cauliflower@nectarine@cucumber|Step 1@Step 2@Step 3@Step 4
+Recipe 822|Description 822|39|28|77|peach|Step 1@Step 2
+Recipe 113|Description 113|32|38|119|salt@bread@nectarine@potato@corn|Step 1@Step 2@Step 3
+Recipe 814|Description 814|37|32|51|orange@lime@peas@squash|Step 1@Step 2
+Recipe 502|Description 502|23|23|7|pepper@peach@lemon@egg@squash|Step 1@Step 2@Step 3@Step 4
+Recipe 85|Description 85|9|2|5|lime@water@apple|Step 1@Step 2@Step 3@Step 4
+Recipe 462|Description 462|35|56|66|cucumber@orange@bread@water@pear|Step 1@Step 2
+Recipe 664|Description 664|10|20|34|ground beef@plum@cereal@lime@pear|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 142|Description 142|43|40|93|squash@cumin@pepper@carrot|Step 1@Step 2@Step 3@Step 4
+Recipe 776|Description 776|50|22|4|cereal@plum@peas@squash@milk|Step 1
+Recipe 805|Description 805|36|29|58|peach@apricot@green beans@lemon|Step 1@Step 2@Step 3@Step 4
+Recipe 160|Description 160|44|56|105|ground beef@egg@garlic@avocado@orange|Step 1@Step 2@Step 3@Step 4
+Recipe 687|Description 687|43|37|36|carrot|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 366|Description 366|48|56|93|cucumber|Step 1@Step 2@Step 3
+Recipe 93|Description 93|13|51|4|peas@water@potato|Step 1@Step 2@Step 3
+Recipe 455|Description 455|30|59|76|bacon@milk|Step 1@Step 2
+Recipe 397|Description 397|25|57|77|broccoli@carrot@onion@ground turkey@bread|Step 1@Step 2
+Recipe 88|Description 88|11|17|94|milk@onion|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 757|Description 757|3|0|3|onion@apricot@peach@cauliflower|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 718|Description 718|17|4|68|lime@salt@celery|Step 1@Step 2@Step 3@Step 4
+Recipe 763|Description 763|42|4|47|squash@milk@ground turkey@potato@bacon|Step 1@Step 2@Step 3@Step 4
+Recipe 321|Description 321|26|24|75|beet@peach@orange@cereal@lime|Step 1@Step 2@Step 3
+Recipe 619|Description 619|31|18|10|peach|Step 1
+Recipe 367|Description 367|32|0|19|broccoli@lime@bacon|Step 1@Step 2@Step 3@Step 4
+Recipe 599|Description 599|49|3|40|corn@green beans@salt|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 223|Description 223|3|52|17|celery@salt@ground beef@milk|Step 1@Step 2
+Recipe 920|Description 920|24|16|35|milk@cucumber|Step 1@Step 2@Step 3
+Recipe 211|Description 211|14|15|9|beet|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 450|Description 450|39|6|33|squash@carrot@ground turkey@egg|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 130|Description 130|1|29|55|avocado@salt@potato@peas|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 90|Description 90|28|0|34|bacon@squash|Step 1
+Recipe 833|Description 833|3|31|86|orange@onion@salt|Step 1@Step 2@Step 3@Step 4
+Recipe 958|Description 958|14|41|115|milk|Step 1@Step 2@Step 3@Step 4
+Recipe 356|Description 356|20|52|72|garlic@apple@peach@avocado@nectarine|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 727|Description 727|34|9|1|ground turkey@pepper@celery@cauliflower@peas|Step 1@Step 2@Step 3@Step 4
+Recipe 897|Description 897|48|46|17|green beans@carrot@celery|Step 1@Step 2
+Recipe 274|Description 274|25|33|112|peas|Step 1@Step 2
+Recipe 884|Description 884|28|24|119|garlic@celery@cereal@ground turkey@apricot|Step 1@Step 2
+Recipe 660|Description 660|6|59|19|lime@plum|Step 1
+Recipe 933|Description 933|40|13|67|pepper@broccoli|Step 1@Step 2@Step 3
+Recipe 141|Description 141|28|24|85|milk@pear@peas|Step 1
+Recipe 398|Description 398|8|7|77|peas@salt@garlic@cumin@apricot|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 518|Description 518|36|34|106|lemon@egg@bread@onion|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 339|Description 339|30|2|19|apple|Step 1@Step 2@Step 3@Step 4
+Recipe 370|Description 370|35|21|62|egg@squash@ground beef@apricot@cucumber|Step 1@Step 2
+Recipe 821|Description 821|32|43|68|ground turkey|Step 1
+Recipe 861|Description 861|17|19|20|ground turkey|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 251|Description 251|18|28|50|carrot@broccoli@squash@bread@garlic|Step 1@Step 2@Step 3@Step 4
+Recipe 155|Description 155|17|41|4|peas@plum|Step 1@Step 2
+Recipe 582|Description 582|3|16|95|nectarine@orange@pepper@carrot|Step 1
+Recipe 598|Description 598|31|43|93|cauliflower|Step 1@Step 2@Step 3@Step 4
+Recipe 395|Description 395|33|32|73|garlic@bread@ground turkey@plum|Step 1
+Recipe 10|Description 10|33|36|112|onion@corn@apple@orange|Step 1
+Recipe 284|Description 284|28|32|51|peas|Step 1@Step 2
+Recipe 109|Description 109|1|42|102|celery@egg|Step 1@Step 2@Step 3
+Recipe 929|Description 929|18|8|78|peas|Step 1@Step 2
+Recipe 358|Description 358|27|34|42|avocado@cucumber|Step 1@Step 2@Step 3@Step 4
+Recipe 183|Description 183|49|5|4|apricot@corn@orange@carrot|Step 1@Step 2@Step 3@Step 4
+Recipe 948|Description 948|28|41|12|carrot|Step 1@Step 2@Step 3@Step 4
+Recipe 214|Description 214|22|55|115|peas@cucumber@broccoli|Step 1@Step 2@Step 3@Step 4
+Recipe 607|Description 607|15|8|99|salt@water@carrot@cereal@bread|Step 1@Step 2@Step 3
+Recipe 874|Description 874|10|46|99|cumin@onion|Step 1@Step 2@Step 3
+Recipe 150|Description 150|49|8|57|orange@cucumber@ground turkey@green beans@broccoli|Step 1
+Recipe 783|Description 783|13|29|17|lemon|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 653|Description 653|9|10|46|egg@carrot@avocado@onion|Step 1@Step 2
+Recipe 857|Description 857|37|59|53|pear@avocado@pepper|Step 1@Step 2
+Recipe 469|Description 469|22|41|53|apricot|Step 1
+Recipe 858|Description 858|8|39|114|water@potato|Step 1@Step 2
+Recipe 470|Description 470|16|41|12|cucumber@cauliflower@garlic|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 886|Description 886|23|7|16|carrot@apricot@ground beef|Step 1@Step 2@Step 3
+Recipe 529|Description 529|17|43|28|pear@orange@squash@garlic|Step 1@Step 2
+Recipe 120|Description 120|25|44|70|plum@corn@ground turkey@cucumber@bacon|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 967|Description 967|22|47|59|peach|Step 1
+Recipe 40|Description 40|21|18|38|cereal@onion|Step 1@Step 2
+Recipe 56|Description 56|16|30|42|water@cauliflower@avocado@cumin@squash|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 930|Description 930|10|12|40|apricot@green beans@squash@beet|Step 1@Step 2
+Recipe 547|Description 547|40|3|8|cauliflower@cumin@cucumber@beet|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 862|Description 862|48|7|91|bacon@potato@apple|Step 1@Step 2@Step 3
+Recipe 828|Description 828|50|40|4|carrot|Step 1@Step 2
+Recipe 771|Description 771|39|28|1|avocado@pear@apple@green beans@lime|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 572|Description 572|20|12|10|lime@peas@pear@apple@water|Step 1@Step 2@Step 3
+Recipe 546|Description 546|49|29|40|apple|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 596|Description 596|36|34|105|milk@green beans@cereal|Step 1
+Recipe 346|Description 346|4|1|99|orange@lime|Step 1
+Recipe 540|Description 540|31|40|31|green beans@beet|Step 1@Step 2@Step 3@Step 4
+Recipe 594|Description 594|7|22|56|apple@cereal@green beans@nectarine@orange|Step 1
+Recipe 293|Description 293|21|36|32|apple@beet|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 173|Description 173|33|31|15|cucumber@orange@peas@apricot|Step 1
+Recipe 793|Description 793|38|30|4|milk@apple|Step 1@Step 2@Step 3
+Recipe 464|Description 464|5|4|101|cauliflower|Step 1@Step 2
+Recipe 237|Description 237|5|55|66|lime@cumin@ground turkey|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 991|Description 991|39|42|115|garlic@bread|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 770|Description 770|40|55|90|egg|Step 1@Step 2
+Recipe 147|Description 147|33|35|27|apple@beet@pear|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 50|Description 50|42|0|91|cucumber@lime@plum|Step 1@Step 2@Step 3
+Recipe 867|Description 867|28|41|57|avocado|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 335|Description 335|38|36|17|cumin|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 674|Description 674|49|8|85|ground turkey|Step 1@Step 2@Step 3@Step 4
+Recipe 943|Description 943|31|42|51|celery@potato@broccoli|Step 1@Step 2
+Recipe 581|Description 581|35|38|62|avocado@cereal@salt@onion@beet|Step 1@Step 2@Step 3@Step 4
+Recipe 675|Description 675|34|35|83|apricot@potato@ground beef|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 760|Description 760|21|56|59|potato@pear|Step 1@Step 2@Step 3@Step 4
+Recipe 532|Description 532|34|27|114|pear@peach@cauliflower@pepper|Step 1
+Recipe 389|Description 389|2|24|18|ground beef@apple@squash@corn|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 334|Description 334|23|28|23|carrot@broccoli|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 230|Description 230|50|4|4|squash@garlic@corn@onion|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 482|Description 482|38|17|7|nectarine@water|Step 1@Step 2@Step 3@Step 4
+Recipe 889|Description 889|18|51|24|milk@apricot@pear|Step 1
+Recipe 510|Description 510|19|37|26|corn@nectarine@milk|Step 1@Step 2
+Recipe 624|Description 624|21|16|68|garlic@lemon@squash@cumin|Step 1@Step 2@Step 3@Step 4
+Recipe 189|Description 189|3|37|23|egg@cauliflower|Step 1@Step 2@Step 3@Step 4
+Recipe 555|Description 555|14|6|90|avocado@broccoli@bread@orange|Step 1
+Recipe 26|Description 26|22|4|115|corn@nectarine@egg@ground beef|Step 1@Step 2@Step 3@Step 4
+Recipe 685|Description 685|48|5|112|pepper@apricot|Step 1@Step 2@Step 3
+Recipe 704|Description 704|38|6|86|cumin|Step 1
+Recipe 647|Description 647|10|15|71|pear@cereal@lime@plum@cauliflower|Step 1
+Recipe 126|Description 126|23|17|27|broccoli@carrot@lemon|Step 1@Step 2
+Recipe 519|Description 519|30|41|87|bread@pear@salt@milk|Step 1@Step 2
+Recipe 263|Description 263|6|28|30|egg@broccoli|Step 1@Step 2@Step 3
+Recipe 775|Description 775|27|6|90|apricot@milk@plum@cumin|Step 1
+Recipe 605|Description 605|22|50|40|ground beef|Step 1@Step 2@Step 3@Step 4
+Recipe 651|Description 651|45|39|32|water@ground beef|Step 1@Step 2
+Recipe 752|Description 752|43|18|67|salt@apple|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 683|Description 683|43|42|84|pear|Step 1@Step 2@Step 3@Step 4
+Recipe 586|Description 586|16|9|37|green beans@cauliflower@egg@plum|Step 1
+Recipe 154|Description 154|30|19|16|green beans@milk@potato@carrot@squash|Step 1@Step 2
+Recipe 27|Description 27|6|26|85|ground beef@milk|Step 1@Step 2@Step 3
+Recipe 271|Description 271|11|44|52|peach@pear@onion@ground turkey|Step 1@Step 2@Step 3
+Recipe 435|Description 435|34|0|13|corn@pepper@peach@bacon@cumin|Step 1@Step 2@Step 3
+Recipe 331|Description 331|24|18|16|lemon@ground turkey@garlic|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 233|Description 233|40|12|40|cauliflower|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 281|Description 281|11|3|31|avocado@squash@plum@water|Step 1@Step 2
+Recipe 769|Description 769|33|21|95|cereal@plum|Step 1@Step 2
+Recipe 816|Description 816|44|0|26|pepper|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 648|Description 648|1|19|21|broccoli@cereal@beet|Step 1
+Recipe 744|Description 744|32|3|78|pepper@green beans|Step 1@Step 2@Step 3
+Recipe 175|Description 175|16|20|62|celery@pepper@nectarine|Step 1@Step 2
+Recipe 898|Description 898|16|59|100|onion|Step 1@Step 2
+Recipe 433|Description 433|6|15|55|orange|Step 1
+Recipe 405|Description 405|30|5|3|ground turkey@squash@cucumber|Step 1@Step 2
+Recipe 119|Description 119|45|52|1|peas@lime@broccoli|Step 1
+Recipe 59|Description 59|47|37|68|cauliflower@garlic@carrot|Step 1@Step 2@Step 3
+Recipe 3|Description 3|3|21|52|green beans@broccoli@beet|Step 1@Step 2@Step 3
+Recipe 804|Description 804|31|54|18|squash@apple@cereal@bread@ground turkey|Step 1@Step 2@Step 3@Step 4
+Recipe 754|Description 754|11|59|46|orange@ground turkey|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 81|Description 81|44|3|47|peas@lime@water@orange|Step 1@Step 2@Step 3
+Recipe 472|Description 472|20|17|49|apricot@lemon@plum@ground turkey|Step 1
+Recipe 809|Description 809|46|9|6|bacon@squash@carrot@cereal|Step 1@Step 2
+Recipe 691|Description 691|7|34|44|beet@milk|Step 1@Step 2
+Recipe 563|Description 563|12|39|8|avocado@ground turkey@bacon|Step 1@Step 2@Step 3@Step 4
+Recipe 548|Description 548|8|30|3|apple@squash@apricot|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 138|Description 138|42|7|54|peas@garlic|Step 1@Step 2
+Recipe 583|Description 583|25|39|81|lemon@green beans@apple|Step 1
+Recipe 423|Description 423|14|4|119|salt@apple@carrot@broccoli|Step 1
+Recipe 58|Description 58|14|37|53|celery|Step 1@Step 2@Step 3
+Recipe 985|Description 985|3|0|20|carrot@avocado@broccoli@cumin|Step 1@Step 2
+Recipe 200|Description 200|47|22|63|lime@cereal@squash|Step 1@Step 2@Step 3@Step 4
+Recipe 143|Description 143|17|19|28|carrot@milk@garlic@bread|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 671|Description 671|10|16|38|garlic@lime@bread|Step 1
+Recipe 497|Description 497|35|59|69|green beans@carrot@egg@cauliflower|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 132|Description 132|15|3|87|plum|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 890|Description 890|3|51|81|onion@cauliflower@peas@avocado@green beans|Step 1@Step 2@Step 3@Step 4
+Recipe 107|Description 107|2|22|68|egg@pear|Step 1@Step 2
+Recipe 49|Description 49|49|38|117|cereal@pear@carrot@plum|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 2|Description 2|17|24|77|lime@cereal|Step 1
+Recipe 915|Description 915|45|30|96|beet@cauliflower|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 953|Description 953|19|44|11|milk@onion@pepper@salt@bread|Step 1@Step 2@Step 3
+Recipe 108|Description 108|50|29|100|lime|Step 1@Step 2@Step 3@Step 4
+Recipe 139|Description 139|25|24|4|bacon@pear@cereal@ground turkey@broccoli|Step 1@Step 2@Step 3@Step 4
+Recipe 836|Description 836|37|5|110|apple@nectarine@green beans@peas@carrot|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 911|Description 911|30|34|65|ground beef|Step 1@Step 2
+Recipe 936|Description 936|23|20|26|water@plum@cumin@broccoli@pear|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 702|Description 702|43|46|66|bacon|Step 1@Step 2@Step 3@Step 4
+Recipe 313|Description 313|20|40|106|celery@nectarine@corn@egg|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 135|Description 135|6|24|96|onion@beet@pepper@ground beef|Step 1
+Recipe 536|Description 536|19|52|41|milk|Step 1@Step 2@Step 3
+Recipe 633|Description 633|37|27|90|cauliflower@apricot@salt|Step 1
+Recipe 196|Description 196|50|18|17|corn@celery@apricot|Step 1@Step 2
+Recipe 105|Description 105|11|48|25|lemon@cumin@corn@cereal|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 364|Description 364|29|43|84|ground beef@bread@beet@peas|Step 1@Step 2@Step 3
+Recipe 466|Description 466|13|18|101|cumin@potato@peach@squash@milk|Step 1@Step 2
+Recipe 903|Description 903|9|25|91|apricot@bread@lime@egg|Step 1@Step 2@Step 3@Step 4
+Recipe 99|Description 99|50|40|82|nectarine|Step 1
+Recipe 352|Description 352|18|32|118|cauliflower@egg@peach@peas|Step 1@Step 2@Step 3@Step 4
+Recipe 575|Description 575|34|1|41|ground beef@apple@corn@peas|Step 1@Step 2@Step 3
+Recipe 295|Description 295|38|57|7|nectarine@green beans|Step 1
+Recipe 905|Description 905|13|14|3|pear@bacon@broccoli|Step 1@Step 2@Step 3
+Recipe 544|Description 544|32|51|14|celery@squash@lime|Step 1@Step 2
+Recipe 839|Description 839|19|29|78|garlic@celery|Step 1
+Recipe 921|Description 921|18|46|104|pear@potato@egg|Step 1@Step 2
+Recipe 428|Description 428|31|59|29|pear@water|Step 1@Step 2@Step 3@Step 4
+Recipe 307|Description 307|4|33|4|green beans@pear|Step 1@Step 2
+Recipe 33|Description 33|13|10|57|water@egg|Step 1@Step 2@Step 3
+Recipe 486|Description 486|32|30|85|avocado@celery|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 733|Description 733|25|41|36|beet|Step 1@Step 2@Step 3@Step 4
+Recipe 612|Description 612|5|56|97|avocado@egg|Step 1@Step 2
+Recipe 328|Description 328|44|31|37|garlic|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 550|Description 550|12|28|11|egg@apple@ground beef@onion|Step 1@Step 2
+Recipe 48|Description 48|7|23|42|beet@apple|Step 1@Step 2@Step 3@Step 4
+Recipe 541|Description 541|9|28|67|nectarine@cumin@celery@avocado|Step 1@Step 2
+Recipe 265|Description 265|18|11|15|onion|Step 1@Step 2@Step 3
+Recipe 362|Description 362|46|35|9|onion@lemon@cereal|Step 1@Step 2@Step 3
+Recipe 110|Description 110|30|57|41|beet|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 785|Description 785|48|43|86|peach@ground beef@bread@pear@potato|Step 1@Step 2@Step 3@Step 4
+Recipe 296|Description 296|29|33|73|egg@milk@peas@corn|Step 1@Step 2@Step 3
+Recipe 123|Description 123|12|7|71|onion@plum@celery@milk@nectarine|Step 1
+Recipe 496|Description 496|19|16|98|lime@carrot|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 938|Description 938|33|38|118|celery@cumin|Step 1@Step 2
+Recipe 452|Description 452|23|20|77|celery@plum@broccoli@carrot|Step 1
+Recipe 654|Description 654|1|15|19|beet@onion@corn@milk|Step 1@Step 2
+Recipe 797|Description 797|46|29|92|broccoli@potato@green beans@ground beef|Step 1@Step 2
+Recipe 565|Description 565|2|44|24|bread@cumin@celery|Step 1
+Recipe 246|Description 246|4|29|49|nectarine@plum@potato|Step 1@Step 2@Step 3@Step 4
+Recipe 869|Description 869|38|51|1|potato|Step 1@Step 2@Step 3
+Recipe 823|Description 823|16|37|43|plum@green beans@salt@ground beef@potato|Step 1@Step 2@Step 3@Step 4
+Recipe 360|Description 360|13|37|46|salt@pepper@ground beef|Step 1@Step 2
+Recipe 171|Description 171|8|0|3|garlic@egg|Step 1@Step 2@Step 3@Step 4
+Recipe 404|Description 404|41|29|115|ground turkey@onion@avocado@milk@cereal|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 163|Description 163|9|48|72|bacon@cauliflower@cucumber@beet@carrot|Step 1@Step 2
+Recipe 37|Description 37|48|37|103|bacon@beet@corn@lime|Step 1
+Recipe 205|Description 205|38|19|13|potato@lemon@avocado|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 709|Description 709|1|5|26|peach@ground turkey@green beans@carrot@squash|Step 1@Step 2@Step 3@Step 4
+Recipe 743|Description 743|24|36|63|broccoli@nectarine@onion@milk|Step 1
+Recipe 483|Description 483|34|55|52|plum@potato@avocado|Step 1@Step 2@Step 3
+Recipe 201|Description 201|27|7|77|garlic@pepper@pear@milk@onion|Step 1@Step 2@Step 3@Step 4
+Recipe 988|Description 988|5|54|117|squash@salt@plum@pear@garlic|Step 1@Step 2@Step 3
+Recipe 226|Description 226|16|0|55|avocado|Step 1@Step 2@Step 3@Step 4
+Recipe 164|Description 164|50|51|36|water@milk@peas@onion@peach|Step 1@Step 2@Step 3
+Recipe 345|Description 345|20|59|83|cucumber@pepper@beet|Step 1@Step 2
+Recipe 504|Description 504|45|14|2|garlic@egg@pepper@salt@cucumber|Step 1
+Recipe 848|Description 848|6|27|45|milk@carrot@potato@ground turkey@pepper|Step 1
+Recipe 501|Description 501|1|32|105|lime@cumin|Step 1@Step 2@Step 3@Step 4
+Recipe 944|Description 944|32|31|94|potato@cumin@orange@beet@water|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 689|Description 689|31|41|16|onion@peas@beet@green beans@water|Step 1@Step 2@Step 3@Step 4
+Recipe 663|Description 663|25|48|57|plum@broccoli@peas@lemon|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 351|Description 351|48|53|0|onion@lemon@apple@salt|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 524|Description 524|24|43|94|ground turkey@apricot|Step 1@Step 2
+Recipe 914|Description 914|31|46|17|ground turkey@squash@pepper@bacon|Step 1@Step 2@Step 3@Step 4
+Recipe 871|Description 871|10|43|69|cauliflower@apple|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 706|Description 706|42|14|91|ground turkey@cumin@cauliflower@cucumber|Step 1@Step 2@Step 3@Step 4
+Recipe 764|Description 764|34|46|21|lemon@bread@pear|Step 1@Step 2
+Recipe 531|Description 531|48|0|110|lime@peach@nectarine@beet|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 172|Description 172|21|32|35|nectarine|Step 1@Step 2
+Recipe 387|Description 387|40|47|54|ground turkey@carrot@apple@apricot@onion|Step 1@Step 2@Step 3@Step 4
+Recipe 191|Description 191|43|11|20|corn@nectarine|Step 1@Step 2@Step 3@Step 4
+Recipe 522|Description 522|5|11|63|corn@beet@cauliflower@squash@pepper|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 34|Description 34|40|22|76|onion@egg@peas@plum|Step 1@Step 2
+Recipe 280|Description 280|6|41|38|celery@ground beef|Step 1
+Recipe 597|Description 597|39|43|105|salt@peas|Step 1@Step 2@Step 3
+Recipe 215|Description 215|13|45|3|cucumber@peach@corn@bread@onion|Step 1
+Recipe 453|Description 453|31|2|44|cereal@nectarine@potato|Step 1
+Recipe 570|Description 570|42|35|76|nectarine@beet|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 248|Description 248|39|39|50|nectarine@avocado@squash|Step 1
+Recipe 634|Description 634|37|6|70|apple@peas@salt|Step 1@Step 2@Step 3@Step 4
+Recipe 140|Description 140|44|12|55|pear|Step 1@Step 2
+Recipe 873|Description 873|37|12|13|squash@cauliflower@apricot@orange|Step 1
+Recipe 850|Description 850|14|54|33|bread@carrot@bacon@onion|Step 1@Step 2@Step 3@Step 4
+Recipe 21|Description 21|4|10|3|salt@milk@orange@egg|Step 1@Step 2@Step 3@Step 4
+Recipe 222|Description 222|22|40|108|carrot@celery|Step 1@Step 2
+Recipe 684|Description 684|18|2|94|plum|Step 1@Step 2@Step 3
+Recipe 721|Description 721|24|26|102|avocado@broccoli|Step 1@Step 2@Step 3@Step 4
+Recipe 835|Description 835|32|14|110|cucumber@avocado@water@peach|Step 1@Step 2@Step 3@Step 4
+Recipe 659|Description 659|41|59|88|cumin|Step 1@Step 2@Step 3@Step 4
+Recipe 169|Description 169|31|51|32|garlic@cucumber@apple@potato|Step 1@Step 2@Step 3
+Recipe 984|Description 984|22|11|76|avocado@ground turkey@celery|Step 1@Step 2@Step 3
+Recipe 829|Description 829|50|1|100|celery|Step 1@Step 2@Step 3@Step 4
+Recipe 68|Description 68|14|49|94|peas@cucumber@peach@green beans@cumin|Step 1@Step 2
+Recipe 908|Description 908|34|2|97|bread|Step 1@Step 2@Step 3@Step 4
+Recipe 837|Description 837|37|30|68|ground turkey@beet@salt|Step 1@Step 2
+Recipe 976|Description 976|19|22|8|milk@corn@squash@lime|Step 1
+Recipe 414|Description 414|17|41|119|cauliflower@corn@orange@cumin@apple|Step 1@Step 2@Step 3@Step 4
+Recipe 932|Description 932|31|27|104|corn|Step 1
+Recipe 891|Description 891|35|8|16|cereal@ground beef@cucumber@peach@pepper|Step 1@Step 2
+Recipe 69|Description 69|41|48|102|corn@lemon@bacon@celery|Step 1@Step 2@Step 3
+Recipe 448|Description 448|31|13|92|egg@cereal@pear|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 193|Description 193|31|4|43|orange@lemon@ground turkey@onion|Step 1@Step 2@Step 3@Step 4
+Recipe 278|Description 278|15|5|104|pear@avocado@ground turkey@green beans|Step 1@Step 2@Step 3
+Recipe 579|Description 579|20|55|117|cumin@ground beef@carrot|Step 1@Step 2@Step 3
+Recipe 701|Description 701|25|58|61|corn@cumin@apricot@bread|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 322|Description 322|12|59|110|lime@plum@cucumber|Step 1@Step 2
+Recipe 949|Description 949|46|43|102|beet@water|Step 1@Step 2@Step 3
+Recipe 811|Description 811|19|11|97|broccoli@cereal@apple|Step 1@Step 2@Step 3
+Recipe 845|Description 845|24|9|28|ground turkey@egg@milk@peas|Step 1@Step 2
+Recipe 907|Description 907|35|33|5|nectarine@cereal@cumin@squash@cucumber|Step 1
+Recipe 993|Description 993|43|7|38|ground turkey@beet@plum@nectarine@orange|Step 1
+Recipe 875|Description 875|29|3|67|beet|Step 1@Step 2@Step 3
+Recipe 219|Description 219|16|54|84|carrot|Step 1
+Recipe 153|Description 153|16|12|32|apricot@bacon@onion|Step 1@Step 2
+Recipe 724|Description 724|41|36|20|carrot@cereal@onion|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 975|Description 975|47|21|102|lime@bread@corn@cucumber|Step 1@Step 2@Step 3@Step 4
+Recipe 340|Description 340|49|52|98|beet@apple@bacon|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 384|Description 384|21|33|18|carrot@nectarine@bread@lime@ground turkey|Step 1
+Recipe 569|Description 569|15|16|10|cumin|Step 1@Step 2
+Recipe 125|Description 125|39|19|15|nectarine@green beans@squash@avocado@water|Step 1@Step 2@Step 3@Step 4
+Recipe 429|Description 429|22|41|4|cereal@avocado|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 977|Description 977|22|31|25|squash@salt@peas@egg@onion|Step 1@Step 2
+Recipe 276|Description 276|7|26|74|cumin@celery@milk@cauliflower|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 849|Description 849|39|39|109|broccoli|Step 1
+Recipe 641|Description 641|28|28|83|salt|Step 1@Step 2@Step 3@Step 4
+Recipe 468|Description 468|40|19|63|milk@bread@bacon@cereal@broccoli|Step 1@Step 2
+Recipe 465|Description 465|43|3|97|bread@plum|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 181|Description 181|11|5|70|squash|Step 1@Step 2@Step 3@Step 4
+Recipe 896|Description 896|40|32|18|water@ground turkey@squash@carrot|Step 1@Step 2
+Recipe 777|Description 777|15|24|105|nectarine@corn@apricot@ground turkey@squash|Step 1@Step 2@Step 3@Step 4
+Recipe 430|Description 430|12|57|77|cumin@broccoli@ground turkey@beet|Step 1
+Recipe 312|Description 312|36|7|14|cereal@corn@squash@peas@broccoli|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 588|Description 588|28|2|0|ground beef@pepper@nectarine@peas|Step 1
+Recipe 260|Description 260|47|51|82|cucumber@plum@salt@nectarine@lime|Step 1@Step 2
+Recipe 441|Description 441|21|55|114|corn@plum@egg@avocado@cereal|Step 1@Step 2
+Recipe 203|Description 203|13|27|109|celery|Step 1
+Recipe 327|Description 327|15|24|113|pepper@egg@plum|Step 1@Step 2@Step 3
+Recipe 315|Description 315|5|58|75|cereal@milk@orange@potato@bacon|Step 1@Step 2@Step 3@Step 4
+Recipe 406|Description 406|11|43|86|lemon@potato@onion@beet|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 332|Description 332|32|3|2|cumin@cucumber@celery@milk@cauliflower|Step 1@Step 2@Step 3@Step 4
+Recipe 972|Description 972|4|1|12|green beans@cereal@onion@peas|Step 1@Step 2@Step 3@Step 4
+Recipe 381|Description 381|50|1|116|broccoli@apricot|Step 1@Step 2@Step 3@Step 4
+Recipe 262|Description 262|47|50|113|plum@broccoli@salt@corn|Step 1
+Recipe 318|Description 318|46|9|113|ground beef|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 986|Description 986|20|30|107|cereal@garlic@ground turkey@squash|Step 1@Step 2@Step 3@Step 4
+Recipe 978|Description 978|7|41|8|carrot@peas@onion|Step 1@Step 2
+Recipe 902|Description 902|7|48|34|cereal@pear@corn@milk@nectarine|Step 1
+Recipe 628|Description 628|18|50|86|cumin@garlic@pear@peach|Step 1
+Recipe 159|Description 159|13|26|96|apple@ground beef@peas@peach|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 255|Description 255|41|19|55|onion@bread@lime@egg|Step 1@Step 2@Step 3
+Recipe 934|Description 934|15|0|105|pepper@salt@peach@bacon@bread|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 716|Description 716|18|8|18|salt@apple@cumin@lemon|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 187|Description 187|6|59|97|potato@ground beef@garlic@lime|Step 1@Step 2@Step 3
+Recipe 314|Description 314|48|31|111|pepper@beet@cumin|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 129|Description 129|29|17|46|ground turkey@squash@pepper|Step 1
+Recipe 826|Description 826|9|3|89|broccoli@plum@avocado|Step 1
+Recipe 9|Description 9|21|36|86|bacon@avocado@apple|Step 1@Step 2@Step 3
+Recipe 23|Description 23|27|8|43|celery@carrot@potato@peas@pear|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 83|Description 83|4|54|41|ground turkey@pepper@egg@green beans|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 374|Description 374|21|34|76|ground turkey@beet|Step 1
+Recipe 297|Description 297|24|27|107|bacon@ground turkey@pear|Step 1@Step 2
+Recipe 740|Description 740|3|28|62|milk@apple@peach|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 208|Description 208|50|11|26|water@celery@beet@salt|Step 1
+Recipe 815|Description 815|20|28|38|cucumber|Step 1
+Recipe 446|Description 446|14|55|67|plum|Step 1
+Recipe 91|Description 91|35|52|9|salt@ground turkey@milk@green beans|Step 1@Step 2@Step 3
+Recipe 379|Description 379|26|15|86|lime|Step 1
+Recipe 131|Description 131|50|45|71|pepper@broccoli@peas@egg|Step 1
+Recipe 341|Description 341|2|27|87|milk|Step 1@Step 2@Step 3
+Recipe 179|Description 179|34|47|84|pepper@peach|Step 1@Step 2@Step 3@Step 4
+Recipe 290|Description 290|23|33|52|avocado|Step 1@Step 2@Step 3
+Recipe 666|Description 666|29|39|6|broccoli@pepper|Step 1@Step 2@Step 3@Step 4
+Recipe 38|Description 38|47|28|32|bread@peach@milk@carrot@celery|Step 1
+Recipe 604|Description 604|27|15|113|carrot@lime|Step 1@Step 2
+Recipe 174|Description 174|46|30|47|salt@lime|Step 1@Step 2
+Recipe 343|Description 343|18|9|14|ground turkey@pepper@egg@squash@lime|Step 1
+Recipe 269|Description 269|18|35|23|peach@cucumber@lemon@corn|Step 1@Step 2@Step 3
+Recipe 28|Description 28|7|43|3|beet@lime@apricot@water@peas|Step 1
+Recipe 792|Description 792|36|34|72|bacon@lime@peach|Step 1
+Recipe 662|Description 662|29|39|87|carrot@egg@water@pear|Step 1@Step 2
+Recipe 679|Description 679|24|12|40|apple@plum@corn@carrot@ground turkey|Step 1
+Recipe 882|Description 882|23|27|45|cumin@beet|Step 1@Step 2@Step 3@Step 4
+Recipe 258|Description 258|32|47|80|lemon@cauliflower@apple|Step 1
+Recipe 614|Description 614|35|21|92|bacon@water@pepper@lemon@avocado|Step 1@Step 2@Step 3
+Recipe 194|Description 194|46|45|4|peach@apple@peas|Step 1@Step 2
+Recipe 493|Description 493|43|38|9|squash@lime@cumin@cereal@ground turkey|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 904|Description 904|12|34|69|potato@cereal|Step 1
+Recipe 637|Description 637|28|24|32|green beans@broccoli|Step 1@Step 2
+Recipe 947|Description 947|22|35|76|green beans@ground beef@bacon@egg|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 791|Description 791|45|59|8|egg@ground beef|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 29|Description 29|11|10|80|potato@onion@broccoli@pepper|Step 1@Step 2@Step 3
+Recipe 419|Description 419|36|28|111|cauliflower@apricot@broccoli|Step 1@Step 2@Step 3@Step 4
+Recipe 543|Description 543|11|46|102|pear@bread@milk@egg@avocado|Step 1@Step 2@Step 3@Step 4
+Recipe 427|Description 427|36|27|48|beet@lemon@cauliflower|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 320|Description 320|4|37|90|water@ground turkey@carrot@peas@apricot|Step 1@Step 2@Step 3
+Recipe 667|Description 667|9|55|73|pepper@bread@celery@corn@pear|Step 1
+Recipe 156|Description 156|27|10|0|broccoli@celery@salt@apple|Step 1@Step 2@Step 3@Step 4
+Recipe 939|Description 939|11|23|103|cucumber@bacon@nectarine@apple|Step 1@Step 2
+Recipe 719|Description 719|43|48|105|peas@pear|Step 1@Step 2
+Recipe 207|Description 207|12|24|104|nectarine@bacon@lime|Step 1@Step 2
+Recipe 378|Description 378|34|24|81|garlic@water|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 410|Description 410|37|35|46|cumin@orange|Step 1@Step 2@Step 3@Step 4
+Recipe 178|Description 178|37|29|27|beet|Step 1
+Recipe 812|Description 812|33|28|37|potato@celery@carrot@cumin|Step 1@Step 2@Step 3
+Recipe 225|Description 225|11|43|82|apricot@egg@ground turkey|Step 1@Step 2@Step 3
+Recipe 512|Description 512|39|19|13|apricot@bacon|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 272|Description 272|40|3|114|potato@milk@ground beef|Step 1@Step 2
+Recipe 371|Description 371|27|15|66|cumin|Step 1@Step 2@Step 3
+Recipe 758|Description 758|30|17|79|ground beef@cereal@nectarine@broccoli|Step 1
+Recipe 231|Description 231|35|11|40|bacon@water|Step 1@Step 2@Step 3
+Recipe 253|Description 253|6|35|102|peach@lime|Step 1@Step 2
+Recipe 866|Description 866|17|27|89|garlic@cumin@water@pepper@green beans|Step 1
+Recipe 630|Description 630|37|39|101|cereal@ground turkey|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 796|Description 796|6|46|90|ground turkey@nectarine@lime@broccoli|Step 1
+Recipe 686|Description 686|23|4|60|green beans@carrot@cucumber@nectarine|Step 1
+Recipe 457|Description 457|40|50|10|potato@peas@broccoli@pepper@orange|Step 1
+Recipe 400|Description 400|6|18|56|potato@bacon@orange@beet@corn|Step 1@Step 2@Step 3@Step 4
+Recipe 72|Description 72|22|58|51|salt@milk@bread|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 533|Description 533|11|3|63|celery@peas@apple@broccoli|Step 1
+Recipe 981|Description 981|40|7|82|milk@garlic@cumin|Step 1@Step 2
+Recipe 720|Description 720|32|40|57|egg@cumin|Step 1@Step 2@Step 3
+Recipe 557|Description 557|3|23|55|cereal|Step 1@Step 2@Step 3
+Recipe 559|Description 559|15|19|33|cumin@onion@garlic@salt|Step 1
+Recipe 306|Description 306|34|40|18|beet@nectarine@lime@ground turkey|Step 1
+Recipe 980|Description 980|21|44|74|peach|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 742|Description 742|47|12|15|carrot@bread@pear@garlic|Step 1@Step 2@Step 3@Step 4
+Recipe 971|Description 971|11|32|83|garlic@squash|Step 1@Step 2
+Recipe 302|Description 302|34|0|15|nectarine@cucumber@pear@cumin|Step 1
+Recipe 661|Description 661|23|19|9|ground turkey@broccoli|Step 1@Step 2@Step 3@Step 4
+Recipe 87|Description 87|5|37|110|pear@orange@bread|Step 1
+Recipe 739|Description 739|50|19|55|bread@apple@pear|Step 1@Step 2@Step 3@Step 4
+Recipe 444|Description 444|9|17|21|green beans@potato@egg@pepper@ground turkey|Step 1@Step 2@Step 3
+Recipe 319|Description 319|31|11|118|lime@broccoli@ground beef|Step 1
+Recipe 440|Description 440|2|23|81|corn@pepper@carrot@cereal@ground beef|Step 1@Step 2
+Recipe 148|Description 148|21|47|103|nectarine|Step 1@Step 2
+Recipe 916|Description 916|49|14|109|peas@bread@potato@salt@broccoli|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 781|Description 781|31|9|42|pear|Step 1@Step 2@Step 3
+Recipe 386|Description 386|39|11|108|nectarine|Step 1
+Recipe 209|Description 209|18|54|9|broccoli@bacon|Step 1
+Recipe 336|Description 336|29|0|28|orange@peach@onion@bread|Step 1@Step 2@Step 3@Step 4
+Recipe 747|Description 747|16|13|113|cauliflower|Step 1@Step 2@Step 3
+Recipe 66|Description 66|39|16|26|apple@cumin@bread|Step 1
+Recipe 965|Description 965|1|29|38|lime@pepper|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 333|Description 333|44|27|64|cauliflower@lime|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 192|Description 192|11|18|6|squash@lime@egg@cumin@beet|Step 1@Step 2
+Recipe 584|Description 584|33|56|76|beet@plum@ground beef@carrot|Step 1@Step 2@Step 3
+Recipe 853|Description 853|47|30|119|squash@beet@salt|Step 1@Step 2@Step 3@Step 4
+Recipe 114|Description 114|46|25|117|potato|Step 1
+Recipe 236|Description 236|19|18|83|ground turkey@bacon@nectarine@salt|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 316|Description 316|8|9|99|green beans@plum@apple@lemon|Step 1@Step 2@Step 3@Step 4
+Recipe 184|Description 184|50|35|36|garlic|Step 1@Step 2@Step 3@Step 4
+Recipe 146|Description 146|17|49|69|ground turkey|Step 1@Step 2
+Recipe 413|Description 413|2|49|118|nectarine@green beans@beet@apricot@squash|Step 1
+Recipe 4|Description 4|41|21|70|milk@plum@cumin@pepper@salt|Step 1@Step 2@Step 3@Step 4
+Recipe 170|Description 170|25|24|15|milk@ground beef|Step 1@Step 2
+Recipe 580|Description 580|15|16|119|avocado@pepper@apple|Step 1@Step 2@Step 3@Step 4
+Recipe 311|Description 311|10|49|30|cucumber|Step 1@Step 2@Step 3
+Recipe 344|Description 344|1|34|107|lime@cumin|Step 1@Step 2
+Recipe 831|Description 831|22|3|32|salt|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 287|Description 287|10|45|54|lemon@orange|Step 1@Step 2@Step 3@Step 4
+Recipe 439|Description 439|33|59|75|egg|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 377|Description 377|7|22|111|pepper@celery@lime@peach@cauliflower|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 480|Description 480|39|43|68|ground turkey@lemon@green beans@apple@nectarine|Step 1
+Recipe 610|Description 610|44|38|5|cucumber|Step 1
+Recipe 801|Description 801|29|40|32|bacon@cereal@potato@squash|Step 1@Step 2@Step 3
+Recipe 846|Description 846|40|30|24|peas@onion|Step 1@Step 2
+Recipe 919|Description 919|13|21|9|nectarine@lime@bacon@peas|Step 1@Step 2@Step 3@Step 4
+Recipe 45|Description 45|4|17|106|water|Step 1@Step 2@Step 3@Step 4
+Recipe 121|Description 121|47|14|89|salt@potato|Step 1@Step 2
+Recipe 670|Description 670|38|22|29|plum@green beans@celery@pear|Step 1@Step 2@Step 3
+Recipe 917|Description 917|6|13|61|apple@potato@milk|Step 1@Step 2@Step 3@Step 4@Step 5
+Recipe 509|Description 509|8|27|83|ground beef@water|Step 1@Step 2
+Recipe 243|Description 243|30|18|6|egg@nectarine@water@cucumber@peas|Step 1@Step 2@Step 3
+Recipe 755|Description 755|4|47|32|green beans@nectarine@squash|Step 1@Step 2
+Recipe 669|Description 669|25|3|65|beet|Step 1@Step 2@Step 3
+Recipe 722|Description 722|48|14|21|pepper|Step 1
+Recipe 680|Description 680|21|42|80|plum@potato@nectarine@orange|Step 1
+Recipe 261|Description 261|50|18|116|pepper|Step 1@Step 2
+Recipe 273|Description 273|26|12|58|cucumber@beet|Step 1@Step 2
+Recipe 590|Description 590|2|33|108|avocado@ground turkey@egg@corn@salt|Step 1@Step 2@Step 3
+Recipe 843|Description 843|36|22|72|broccoli|Step 1@Step 2
+Recipe 842|Description 842|1|15|99|beet@apple@lemon@lime@corn|Step 1
+Recipe 235|Description 235|34|50|19|cereal@green beans|Step 1
+Recipe 566|Description 566|16|44|44|cereal@water@apple@plum@ground beef|Step 1@Step 2@Step 3@Step 4
+Recipe 79|Description 79|38|22|97|milk@corn|Step 1
